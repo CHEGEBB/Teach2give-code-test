@@ -42,7 +42,8 @@ This is a simple and stylish FAQ section designed with **HTML**, **CSS**, and **
 - **JavaScript**  
 
 ### 🖼️ Screenshot  
-![FAQ Accordion Screenshot](path/to/screenshot.png)  
+
+![desktop-design](https://github.com/user-attachments/assets/62db5018-20c5-45ff-8375-c5d9ae5566e2)
 
 ---
 
