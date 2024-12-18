@@ -1,7 +1,6 @@
-/* styles.css */
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* Reset default styles */
+/* Reset default styles remove unnecessary margin and spaces around */
 * {
     margin: 0;
     padding: 0;
