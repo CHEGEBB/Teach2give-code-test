@@ -6,8 +6,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-/* Base styles */
 body {
     min-height: 100vh;
     overflow-x: hidden;
@@ -42,7 +40,7 @@ body {
     gap: 1rem;
 }
 
-/* Heading styles */
+/* Heading styles the logo FAQS */
 .heading {
     display: flex;
     align-items: center;
