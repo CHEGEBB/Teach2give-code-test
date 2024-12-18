@@ -1,53 +1,76 @@
-# 📚 FAQ Accordion Component  
 
-Welcome to the **FAQ Accordion Component** project! 🎉 This project is a simple yet stylish FAQ section created using **HTML**, **CSS**, and **JavaScript**. It's designed to be responsive, interactive, and visually appealing.  
+# 💻 Technical Challenges Submission  
 
----
-
-## 🚀 Features  
-✨ **Accordion Design**: Smooth toggle animations for questions and answers.  
-🎨 **Stylish UI**: A background pattern and well-designed typography for a professional look.  
-🖼️ **Screenshot Preview**: (to be included - showcasing the header background pattern and Frontend Mentor logo).  
-📱 **Responsive**: Works beautifully on both mobile and desktop devices.  
+Welcome to my submission for the **Technical Challenges**! 🎉 This repository contains solutions to two exciting challenges designed to showcase my coding skills.  
 
 ---
 
-## 💻 Technologies Used  
-- **HTML**: For structuring the content.  
-- **CSS**: For styling the FAQ section and ensuring responsiveness.  
-- **JavaScript**: For adding interactivity to the accordion feature.  
+## 🚀 Challenge 1: Capitalize Words  
+### 📝 Description  
+This Python script accepts a string as input, capitalizes the first letter of each word in the string, and returns the result.  
+
+### 🔧 How to Run the Script  
+1. Make sure you have Python installed on your computer.  
+2. Run the script in your terminal or command prompt:  
+   ```bash  
+   python capitalize.py  
+   ```  
+3. Input a string when prompted, and the script will return the capitalized result.  
+
+### ✨ Example Output  
+```plaintext  
+Enter a string: i love programming  
+Result: I Love Programming  
+```  
 
 ---
 
-## 🧐 FAQs  
-### What is Frontend Mentor, and how will it help me?  
-Frontend Mentor is a platform that provides real-world projects to help you practice and improve your coding skills. It's perfect for building your portfolio and getting feedback from the developer community.  
+## 📚 Challenge 2: FAQ Accordion Component  
 
-### Is Frontend Mentor free?  
-Yes! Frontend Mentor offers both free and premium coding challenges, with the free option providing access to a range of projects suitable for all skill levels.  
+### 📝 Description  
+This is a simple and stylish FAQ section designed with **HTML**, **CSS**, and **JavaScript**. The component features a responsive accordion design for toggling FAQs and a visually appealing UI.  
 
-### Can I use Frontend Mentor projects in my portfolio?  
-Absolutely! You can showcase your completed projects in your portfolio to demonstrate your skills.  
+### 🚀 Features  
+✨ **Accordion Design**: Smooth toggle animations for FAQs.  
+🎨 **Stylish UI**: Includes a background pattern and professional typography.  
+📱 **Responsive**: Works perfectly on both desktop and mobile devices.  
+🖼️ **Screenshot Preview**: (Screenshot of the FAQ Accordion Component to be included).  
 
-### How can I get help if I'm stuck on a Frontend Mentor challenge?  
-You can join the supportive community of developers on the Frontend Mentor Slack channel or forums, where you can ask for help and share ideas.
+### 💻 Technologies Used  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+
+### 🖼️ Screenshot  
+![FAQ Accordion Screenshot](path/to/screenshot.png)  
 
 ---
 
-## 🖼️ Screenshot  
-![Screenshot of the FAQ Accordion Component](path/to/screenshot.png)  
+## 🌟 How to Test  
 
----
-
-## 🌟 How to Use  
+### 🐍 Python Script (`capitalize.py`)  
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/your-username/Teach2give-code-test.git  
    ```  
-2. Open the `index.html` file in your favorite browser.  
-3. Enjoy the interactive FAQ section!  
+2. Navigate to the directory:  
+   ```bash  
+   cd Teach2give-code-test  
+   ```  
+3. Run the Python script:  
+   ```bash  
+   python capitalize.py  
+   ```  
+4. Enter a string when prompted to see the result.
+
+### 🌐 FAQ Accordion Component  
+1. Open the `index.html` file located in the FAQ Accordion project folder.  
+2. View the FAQ section in your browser.  
+3. Click on the questions to toggle their answers interactively.
 
 ---
 
 ## 👨‍💻 Author  
 Made with ❤️ by **Brian Chege** (@CHEGEBB on GitHub).  
+
+Feel free to explore and provide feedback. 🚀  
